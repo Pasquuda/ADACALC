@@ -1,0 +1,3 @@
+streamlit>=1.41,<2
+geographiclib>=2,<3
+pygeomag>=1.1,<2
